@@ -1,0 +1,22 @@
+D:\Network\Assignment\Server\Server\bin\Debug\Server.exe.config
+F:\FCIS  3rd year\Second Term\Computer Networks\Labs\Server\Server\Server\bin\Debug\Server.exe.config
+F:\FCIS  3rd year\Second Term\Computer Networks\Labs\Server\Server\Server\bin\Debug\Server.exe
+F:\FCIS  3rd year\Second Term\Computer Networks\Labs\Server\Server\Server\bin\Debug\Server.pdb
+F:\FCIS  3rd year\Second Term\Computer Networks\Labs\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\FCIS  3rd year\Second Term\Computer Networks\Labs\Server\Server\Server\obj\Debug\Server.exe
+F:\FCIS  3rd year\Second Term\Computer Networks\Labs\Server\Server\Server\obj\Debug\Server.pdb
+F:\FCIS  3rd year\Second Term\Computer Networks\Labs\assignments\Server\Server\Server\bin\Debug\Server.exe.config
+F:\FCIS  3rd year\Second Term\Computer Networks\Labs\assignments\Server\Server\Server\obj\Debug\Server.exe
+F:\FCIS  3rd year\Second Term\Computer Networks\Labs\assignments\Server\Server\Server\obj\Debug\Server.pdb
+E:\fcis\IS1\first term\networking\Amr Mostafa network\Labs\assignments\Server\Server\Server\bin\Debug\Server.exe.config
+E:\fcis\IS1\first term\networking\Amr Mostafa network\Labs\assignments\Server\Server\Server\bin\Debug\Server.exe
+E:\fcis\IS1\first term\networking\Amr Mostafa network\Labs\assignments\Server\Server\Server\bin\Debug\Server.pdb
+E:\fcis\IS1\first term\networking\Amr Mostafa network\Labs\assignments\Server\Server\Server\obj\Debug\Server.exe
+E:\fcis\IS1\first term\networking\Amr Mostafa network\Labs\assignments\Server\Server\Server\obj\Debug\Server.pdb
+E:\fcis\IS1\first term\networking\Amr Mostafa network\Labs\assignments\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\android\projects\Server\Server\bin\Debug\Server.exe.config
+E:\android\projects\Server\Server\obj\Debug\Server.exe
+E:\android\projects\Server\Server\obj\Debug\Server.pdb
+E:\android\projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\android\projects\Server\Server\bin\Debug\Server.exe
+E:\android\projects\Server\Server\bin\Debug\Server.pdb
